@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chuck Johnston",
+            "title": "Shooting in Baltimore kills 1 and wounds 2 others - CNN",
+            "description": "At least one person was killed and two wounded in a shooting in Baltimore on Saturday, police said.",
+            "url": "https://www.cnn.com/2023/01/28/us/baltimore-shooting-saturday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230128224823-01-baltimore-shooting-012823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-29T14:30:00Z",
+            "content": "At least one person was killed and two wounded in a shooting in Baltimore on Saturday, police said.\r\nAuthorities responded near the intersection of Pennsylvania and Laurens Ave. after 6 p.m. Saturday… [+1676 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Iranian military factory hit by drone attack - Reuters.com",
+            "description": "A loud explosion struck a military industry factory near the central Iranian city of Isfahan overnight in what Tehran said on Sunday was a drone strike by unidentified attackers.",
+            "url": "https://www.reuters.com/world/middle-east/blast-heard-military-plant-irans-central-city-isfahan-state-media-2023-01-28/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=127",
+            "publishedAt": "2023-01-29T14:12:00Z",
+            "content": "DUBAI, Jan 29 (Reuters) - A loud explosion struck a military industry factory near the central Iranian city of Isfahan overnight in what Tehran said on Sunday was a drone strike by unidentified attac… [+3899 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Charles Trepany",
+            "title": "'SNL': Michael B. Jordan jokes about his 'first public breakup' months after Lori Harvey split - USA TODAY",
+            "description": "While hosting \"Saturday Night Live,\" \"Creed\" star Michael B. Jordan joked about his \"very first public breakup\" after splitting with Lori Harvey.",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2023/01/29/snl-michael-b-jordan-jokes-heartbreak-post-lori-harvey-split/11144445002/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2023/01/29/USAT/da1c8d05-9f73-4e1d-a922-4ab6e6d4f0b8-NUP_200467_00020.JPG?crop=999,562,x1,y103&width=999&height=562&format=pjpg&auto=webp",
+            "publishedAt": "2023-01-29T13:18:45Z",
+            "content": "Celebrities, they're just like us. And like us, they experience heartbreak, too.\r\nJust ask Michael B. Jordan. While making his debut as host of NBC's \"Saturday Night Live\" this week, the \"Creed\" star… [+1810 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Chiefs vs. Bengals expert picks: Odds, spread, total, player props, TV, stream AFC Championship on Paramount+ - CBS Sports",
+            "description": "It'll be Joe Burrow vs. Patrick Mahomes in a bid to advance to Super Bowl LVII",
+            "url": "https://www.cbssports.com/nfl/news/chiefs-vs-bengals-expert-picks-odds-spread-total-player-props-tv-stream-afc-championship-on-paramount/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/25/f35fd20a-d98d-40a4-9f28-03dbad2203cc/thumbnail/1200x675/3bdfa3ca6821a7f25a91e7874786cdb6/isiah-pacheco-usatsi-chiefs.jpg",
+            "publishedAt": "2023-01-29T13:14:00Z",
+            "content": "For the second year in a row, the Cincinnati Bengals and Kansas City Chiefs will duke it out at Arrowhead Stadium with a trip to the Super Bowl on the line. That game needed overtime to determine a w… [+11938 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "Eagles vs. 49ers how to watch: Time, TV channel, streaming, key matchups for 2023 NFC Championship Game - CBS Sports",
+            "description": "The NFC's top two teams battle Sunday for a spot in Super Bowl LVII",
+            "url": "https://www.cbssports.com/nfl/news/eagles-vs-49ers-how-to-watch-time-tv-channel-streaming-key-matchups-for-2023-nfc-championship-game/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/01/27/b290cd53-c7f8-4099-bc86-6e06bc186a15/thumbnail/1200x675/abae0d2f3227c2d474027b5c724c2844/hurts-49ers.jpg",
+            "publishedAt": "2023-01-29T13:06:00Z",
+            "content": "Let's not waste time with a long preamble. It's Championship Sunday in the NFL. In the NFC Championship, the No. 1 seed and NFC East champion Philadelphia Eagles will play host to the No. 2 seed and … [+9046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Tyre Nichols: Police unit is disbanded after death - BBC",
+            "description": "The so-called Scorpion special unit will be disbanded after its officers were seen beating Mr Nichols.",
+            "url": "https://www.bbc.com/news/world-us-canada-64442756",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3F92/production/_128447261_video_still.png",
+            "publishedAt": "2023-01-29T12:20:37Z",
+            "content": "Media caption, Watch: New footage shows deadly arrest of Tyre Nichols\r\nThe Memphis Police Department has disbanded the so-called Scorpion special unit, whose officers are accused of murdering Tyre Ni… [+5686 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Sareen Habeshian",
+            "title": "Trump \"more angry,\" \"more committed\" as he kicks off 2024 campaign - Axios",
+            "description": "\"I’m more angry now and I’m more committed now than I ever was,\" Trump during his debut on the campaign trail.",
+            "url": "https://www.axios.com/2023/01/28/trump-kicks-off-campaign-new-hampshire",
+            "urlToImage": "https://images.axios.com/ar_dsF38FTgg0BjdiRGFRW99O7I=/0x234:6473x3875/1366x768/2023/01/28/1674934929999.jpg",
+            "publishedAt": "2023-01-29T12:20:13Z",
+            "content": "Former President Donald Trump on Saturday said he's angrier and more committed than ever as he kicked off his 2024 presidential bid in New Hampshire, per AP.\r\nDriving the news: \"Were starting. Were s… [+2144 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "UK PM Sunak sacks party chairman Zahawi over tax affairs - Reuters UK",
+            "description": "British Prime Minister Rishi Sunak sacked Conservative Party chair Nadhim Zahawi on Sunday after an investigation found he committed a serious breach by not being open about a tax probe, the latest scandal to hit one of Sunak's top ministers.",
+            "url": "https://www.reuters.com/world/uk/uk-pm-sunak-fires-party-chairman-zahawi-after-breach-ministerial-code-2023-01-29/",
+            "urlToImage": "https://www.reuters.com/resizer/QLpVNSXDKQTjIeYKX8AlJkdIr4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5OCIVI3WBIRFFCSLCP5253QIM.jpg",
+            "publishedAt": "2023-01-29T12:18:00Z",
+            "content": "LONDON, Jan 29 (Reuters) - British Prime Minister Rishi Sunak sacked Conservative Party chair Nadhim Zahawi on Sunday after an investigation found he committed a serious breach by not being open abou… [+4347 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Richard Pollina",
+            "title": "Tom Verlaine, frontman for rock band Television, dead at 73 - New York Post ",
+            "description": "Patti Smith, Billy Idol, Flea and R.E.M react to the death of punk rock guitarist Tom Verlaine.",
+            "url": "https://nypost.com/2023/01/29/tom-verlaine-frontman-for-punk-band-television-dead-at-73/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2023/01/television-rocker.jpg?quality=75&strip=all&1674976255&w=1024",
+            "publishedAt": "2023-01-29T12:13:00Z",
+            "content": "Tom Verlaine, the frontman and guitarist for the rock band Television, died Saturday in Manhattan following a “brief illness.” He was 73 years old.\r\nVerlaine’s death was announced by Jesse Paris Smit… [+2294 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Alleged Pelosi attacker DePape calls news outlet from jail, makes ‘chilling and bizarre’ remarks - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMie2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzgzNDU5Mi1wZWxvc2ktYXR0YWNrZXItZGVwYXBlLWNhbGxzLW5ld3Mtb3V0bGV0LWZyb20tamFpbC1tYWtlcy1jaGlsbGluZy1hbmQtYml6YXJyZS1yZW1hcmtzL9IBf2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvMzgzNDU5Mi1wZWxvc2ktYXR0YWNrZXItZGVwYXBlLWNhbGxzLW5ld3Mtb3V0bGV0LWZyb20tamFpbC1tYWtlcy1jaGlsbGluZy1hbmQtYml6YXJyZS1yZW1hcmtzL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-29T11:44:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": null,
+            "title": "Security forces seal home of terrorist who carried out deadly Jerusalem attack - The Times of Israel",
+            "description": "Troops close off home ahead of its demolition; residents had already been told to leave shortly after Alqam Khayri killed 7, wounded 3 in Neve Ya'akov",
+            "url": "https://www.timesofisrael.com/security-forces-seal-home-of-terrorist-who-carried-out-deadly-jerusalem-attack/",
+            "urlToImage": "https://static.timesofisrael.com/www/uploads/2023/01/house-seal-e1674985471829-1024x640.jpg",
+            "publishedAt": "2023-01-29T11:26:55Z",
+            "content": "The Israel Police said Sunday that it had sealed off the home of the terrorist who killed seven and injured three in a terror attack Friday in East Jerusalem’s Neve Ya’akov neighborhood.\r\nTroops seal… [+4316 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Issy Ronald",
+            "title": "'We got cheated': LA Lakers furious after missed foul in loss to Boston Celtics - CNN",
+            "description": "LeBron James was left hunched on the court in frustration after referees missed a foul on his attempted game-winning layup, and the Los Angeles Lakers succumbed to a 125-121 overtime loss against the Boston Celtics.",
+            "url": "https://www.cnn.com/2023/01/29/sport/la-lakers-boston-celtics-controversy-spt-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230129045229-01-lakers-celtics-012923-intl.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-29T10:31:00Z",
+            "content": "LeBron James was left hunched on the court in frustration after referees missed a foul on his attempted game-winning layup, and the Los Angeles Lakers succumbed to a 125-121 overtime loss against the… [+1520 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Rachel Pannett, Annabelle Timsit, Nick Parker",
+            "title": "Russia-Ukraine war latest updates: Zelensky pleads for more potent weapons - The Washington Post",
+            "description": "Ukrainian President Volodymyr Zelensky renewed his plea for the West to supply Ukraine with more potent weapons, including the Army Tactical Missile System, or ATACMS.",
+            "url": "https://www.washingtonpost.com/world/2023/01/29/russia-ukraine-war-latest-updates/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V4TUF2ULJYCYDZQNZPIDGHS3EI.jpg&w=1440",
+            "publishedAt": "2023-01-29T09:27:00Z",
+            "content": "Ukrainian President Volodymyr Zelensky renewed his plea for Western nations to supply Ukraine with more potent weapons, including the Army Tactical Missile System, known as ATACMS, to help Kyiv defen… [+6146 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Full WWE Royal Rumble 2023 highlights - WWE",
+            "description": "Cody Rhodes and Rhea Ripley secured their WrestleMania spots, Roman Reigns embattled The Bloodline in his rivalry with Kevin Owens and more. Catch WWE action...",
+            "url": "https://www.youtube.com/watch?v=vvECC4hplWg",
+            "urlToImage": "https://i.ytimg.com/vi/vvECC4hplWg/maxresdefault.jpg",
+            "publishedAt": "2023-01-29T07:23:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Richard Vogel",
+            "title": "California shooting: 3 dead, 4 hurt in ritzy LA neighborhood - The Associated Press - en Español",
+            "description": "LOS ANGELES (AP) — Three people were killed and four others wounded in a shooting at a multimillion dollar short-term rental home in an upscale Los Angeles neighborhood early Saturday, police said.",
+            "url": "https://apnews.com/article/crime-california-los-angeles-9aae014fbb6f2edcc54abccfb48a3f66",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/c4e211e9a4d845fc9ee70d42c8b72359/3000.webp",
+            "publishedAt": "2023-01-29T06:57:19Z",
+            "content": "LOS ANGELES (AP) Three people were killed and four others wounded in a shooting at a multimillion dollar short-term rental home in an upscale Los Angeles neighborhood early Saturday, police said.\r\nTh… [+2623 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Uliana Pavlova",
+            "title": "Russian teen faces years in jail over social media post criticizing Ukrainian war - CNN",
+            "description": "Olesya Krivtsova sports an anti-Putin tattoo on one ankle and a bracelet that tracks her every move on the other.",
+            "url": "https://www.cnn.com/2023/01/29/europe/russian-teen-social-media-ukraine-war-intl-cmd/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230127151614-02-olesya-krivtsova.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-29T05:30:00Z",
+            "content": "Olesya Krivtsova sports an anti-Putin tattoo on one ankle and a bracelet that tracks her every move on the other. \r\nThe 19-year-old from Russias Arkhangelsk region must wear the device while she is u… [+3700 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Anjli Raval",
+            "title": "The shock of mass lay-offs is only the beginning for companies - Financial Times",
+            "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+            "url": "https://www.ft.com/content/7da265f6-d4c5-4542-af0c-d33858773572",
+            "urlToImage": null,
+            "publishedAt": "2023-01-29T05:00:33Z",
+            "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Sandee LaMotte, CNN",
+            "title": "Weight loss surgery extends lives, Utah study finds - KSL.com",
+            "description": "Weight loss surgery reduces the risk of premature death, especially from such obesity-related conditions as cancer, diabetes and heart disease, according to a new 40-year study of nearly 22,000 people who had bariatric surgery in Utah.",
+            "url": "https://www.ksl.com/article/50567262/weight-loss-surgery-extends-lives-utah-study-finds",
+            "urlToImage": "https://img.ksl.com/slc/2913/291325/29132586.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2023-01-29T03:44:14Z",
+            "content": "Estimated read time: 7-8 minutes\r\nSALT LAKE CITY Weight loss surgery reduces the risk of premature death, especially from such obesity-related conditions as cancer, diabetes and heart disease, accord… [+8337 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Niha Masih",
+            "title": "What to know about Gautam Adani and stock rout after Hindenberg report - The Washington Post",
+            "description": "The Indian energy billionaire and Narendra Modi ally denied charges leveled by Hindenburg Research, which triggered a massive sell-off of Adani company shares.",
+            "url": "https://www.washingtonpost.com/world/2023/01/28/gautam-adani-india-hindenburg-research-crash/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AQWZYVLEE4FROPEJHD2YKHQ4OU.jpg&w=1440",
+            "publishedAt": "2023-01-29T00:57:00Z",
+            "content": "Comment on this story\r\nIndian billionaire Gautam Adani, who last year briefly catapulted into becoming the worlds second richest person, has had a tough week. On Tuesday, he was accused of fraud and … [+7020 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+            "title": "Federal prosecutors ask court to bar Sam Bankman-Fried from using Signal - Engadget",
+            "description": "Sam Bankman-Fried allegedly used Signal earlier this month to contact the general counsel of FTX..",
+            "url": "https://www.engadget.com/federal-prosecutors-ask-court-to-bar-sam-bankman-fried-from-using-signal-214122181.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/92863630-9f51-11ed-b7ff-11392a948755",
+            "publishedAt": "2023-01-28T21:43:15Z",
+            "content": "US prosecutors have asked a federal court to tighten Sam Bankman-Frieds bail conditions to prevent the disgraced entrepreneur from contacting his former colleagues. According to court documents seen … [+1554 chars]"
+        }
+    ]
+}
